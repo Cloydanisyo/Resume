@@ -1,0 +1,63 @@
+
+body {
+	background-image: url(../images/13.jpg);
+	font-family: Comic Sans MS;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#section-left {
+	width: 35%;
+	float: left;
+	height: 100%;
+	color: #FFF;
+	text-align: center;
+	background-image: url(../images/11.jpg);
+}
+#section-left .section {
+	margin-top: 40%;
+	
+}
+#section-left .section. logo {
+	height: 300px;
+	width: 300px;
+}
+
+#contact {
+	margin-top: 40px;
+}
+
+h1{
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+#section-right {
+	width: 65%;
+	float: right;
+	height: 100%;
+	color: #fff;
+}
+#section-right .section {
+	margin: 0 0 30px 0;
+}
+.wrapper {
+	padding: 32px;
+}
+.fa {
+	margin-right: 15px;
+}
+.wrapper .title {
+	color: #fff;
+	font-size: 32.2px;
+	letter-spacing: 1.6px;
+	font-weight: bold;
+	border-bottom: 8px solid #fff;
+}
+h2 {
+	font-size: 25px;
+}
+h3 {
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: normal;
+}
